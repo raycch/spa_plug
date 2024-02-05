@@ -14,7 +14,7 @@ Add `spa_plug` to your dependencies in `mix.exs`:
 def deps do
   [
     # ...
-    {:spa_plug, "~> 0.1.0"}
+    {:spa_plug, "~> 1.0.0"}
   ]
 end
 ```
